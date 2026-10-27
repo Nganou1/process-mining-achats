@@ -1,0 +1,619 @@
+case_id,montant,deviations
+PO-00447,480000.0,Facture bloquée (litige prix) — ret
+PO-01672,282041.89,Même utilisateur valide et exécute 
+PO-00206,237297.14,Même utilisateur crée et approuve l
+PO-01270,205578.13,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00074,203279.51,Même utilisateur crée et approuve l
+PO-01362,163532.11,Facture bloquée (litige prix) — ret
+PO-00819,125807.84,Fournisseur modifié après création 
+PO-01487,113317.97,Fournisseur modifié après création 
+PO-01036,112694.46,Fournisseur modifié après création 
+PO-01034,106884.35,Fournisseur modifié après création 
+PO-01301,106122.98,Facture bloquée (litige prix) — ret
+PO-01776,99541.95,Fournisseur modifié après création 
+PO-01923,98537.08,Facture bloquée (litige prix) — ret
+PO-01984,98253.77,Facture bloquée (litige prix) — ret
+PO-01818,97070.36,Fournisseur modifié après création 
+PO-01312,95166.4,Facture bloquée (litige prix) — ret
+PO-01600,93563.13,Facture bloquée (litige prix) — ret
+PO-00338,89609.41,Même utilisateur crée et approuve l
+PO-01284,84279.17,Facture bloquée (litige prix) — ret
+PO-00637,73402.44,Facture bloquée (litige prix) — ret
+PO-00296,72537.32,Même utilisateur crée et approuve l
+PO-00250,70851.85,Même utilisateur crée et approuve l
+PO-01000,68773.88,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-01548,65773.89,Facture bloquée (litige prix) — ret
+PO-00918,65744.6,Même utilisateur valide et exécute 
+PO-00097,64306.46,Facture bloquée (litige prix) — ret
+PO-00485,62592.84,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01351,62469.12,Même utilisateur crée et approuve l
+PO-01708,61043.42,Même utilisateur crée et approuve l
+PO-01392,60843.68,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-01967,59731.92,Paiement exécuté avant validation /
+PO-01956,59719.2,Paiement exécuté avant validation /
+PO-00776,59204.64,Même utilisateur valide et exécute 
+PO-01314,58971.24,Facture bloquée (litige prix) — ret
+PO-00787,58107.95,Facture bloquée (litige prix) — ret
+PO-00884,57400.13,Facture bloquée (litige prix) — ret
+PO-01219,57087.6,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-01625,56520.32,Même utilisateur crée et approuve l
+PO-01356,55356.89,Même utilisateur crée et approuve l
+PO-00030,54415.57,Même utilisateur crée et approuve l
+PO-01428,53649.87,Facture bloquée (litige prix) — ret
+PO-01096,53605.59,Facture bloquée (litige prix) — ret
+PO-00243,53323.52,Facture bloquée (litige prix) — ret
+PO-00374,53294.21,Facture bloquée (litige prix) — ret
+PO-01971,52042.66,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01505,49636.31,Paiement exécuté avant validation /
+PO-00818,48370.46,Facture bloquée (litige prix) — ret
+PO-01005,48113.29,Même utilisateur valide et exécute 
+PO-00059,47912.78,Même utilisateur crée et approuve l
+PO-01483,47529.05,Même utilisateur crée et approuve l
+PO-00060,46890.72,Facture bloquée (litige prix) — ret
+PO-01784,46873.76,Facture bloquée (litige prix) — ret
+PO-01765,46818.88,Paiement exécuté avant validation /
+PO-01028,46585.88,Même utilisateur valide et exécute 
+PO-01735,46564.66,Fournisseur modifié après création 
+PO-01369,46114.84,Facture bloquée (litige prix) — ret
+PO-01960,44761.29,Facture bloquée (litige prix) — ret
+PO-01978,44440.34,Même utilisateur crée et approuve l
+PO-00961,44379.08,Fournisseur modifié après création 
+PO-01874,44004.88,Même utilisateur crée et approuve l
+PO-00759,43973.32,Facture bloquée (litige prix) — ret
+PO-01747,43816.95,Facture bloquée (litige prix) — ret
+PO-01313,42305.32,Facture bloquée (litige prix) — ret
+PO-01163,42223.64,Même utilisateur crée et approuve l
+PO-01509,41911.28,Facture bloquée (litige prix) — ret
+PO-00421,41389.01,Paiement exécuté avant validation /
+PO-01743,41128.24,Facture bloquée (litige prix) — ret
+PO-01138,41057.12,Même utilisateur crée et approuve l
+PO-00969,40487.86,Même utilisateur crée et approuve l
+PO-01233,40026.49,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01612,40018.15,Fournisseur modifié après création 
+PO-01420,39858.03,Paiement exécuté avant validation /
+PO-00936,39827.4,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00045,39553.55,Fournisseur modifié après création 
+PO-01676,39334.27,Même utilisateur crée et approuve l
+PO-00034,38971.82,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-01616,38150.12,Fournisseur modifié après création 
+PO-01751,37661.3,Même utilisateur crée et approuve l
+PO-01128,37444.73,Facture bloquée (litige prix) — ret
+PO-01357,37433.92,Même utilisateur crée et approuve l
+PO-01113,37176.99,Fournisseur modifié après création  | Même utilisateur valide et exécute 
+PO-00093,36962.67,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00565,36066.28,Facture bloquée (litige prix) — ret
+PO-01227,35741.48,Paiement exécuté avant validation /
+PO-01742,35542.72,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-01282,35439.38,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-01062,35161.66,Même utilisateur valide et exécute 
+PO-01911,35105.01,Facture bloquée (litige prix) — ret
+PO-01986,34690.84,Fournisseur modifié après création 
+PO-01606,34618.83,Même utilisateur crée et approuve l
+PO-01296,34154.11,Paiement exécuté avant validation /
+PO-00380,34118.7,Facture bloquée (litige prix) — ret
+PO-01823,34007.38,Même utilisateur crée et approuve l
+PO-01453,33932.67,Même utilisateur crée et approuve l
+PO-00702,33389.78,Facture bloquée (litige prix) — ret
+PO-01087,33237.89,Facture bloquée (litige prix) — ret
+PO-01106,32620.95,Paiement exécuté avant validation / | Fournisseur modifié après création 
+PO-01944,32345.73,Même utilisateur crée et approuve l
+PO-00810,31401.43,Même utilisateur crée et approuve l
+PO-00281,31009.27,Même utilisateur valide et exécute 
+PO-01343,30491.29,Facture bloquée (litige prix) — ret
+PO-01018,30460.79,Même utilisateur valide et exécute 
+PO-00162,30327.9,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01836,30127.16,Même utilisateur valide et exécute 
+PO-00095,30013.2,Même utilisateur crée et approuve l
+PO-00563,29652.29,Même utilisateur crée et approuve l
+PO-00848,29249.33,Paiement exécuté avant validation /
+PO-01374,29085.98,Facture bloquée (litige prix) — ret
+PO-00228,28990.8,Paiement exécuté avant validation /
+PO-01067,28423.97,Même utilisateur crée et approuve l
+PO-01660,28377.21,Même utilisateur crée et approuve l | Même utilisateur valide et exécute 
+PO-01042,28042.96,Fournisseur modifié après création 
+PO-00640,27641.15,Paiement exécuté avant validation / | Fournisseur modifié après création  | Même utilisateur valide et exécute 
+PO-00896,27587.53,Facture bloquée (litige prix) — ret
+PO-00668,27091.92,Facture bloquée (litige prix) — ret
+PO-00751,26980.68,Facture bloquée (litige prix) — ret
+PO-00269,26436.32,Facture bloquée (litige prix) — ret
+PO-00531,26377.14,Même utilisateur crée et approuve l
+PO-00847,26156.77,Même utilisateur crée et approuve l
+PO-00196,26130.65,Fournisseur modifié après création 
+PO-00208,26065.92,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-00506,26016.97,Fournisseur modifié après création 
+PO-01493,25938.18,Facture bloquée (litige prix) — ret
+PO-01866,25744.93,Même utilisateur crée et approuve l | Même utilisateur valide et exécute 
+PO-00179,25604.24,Paiement exécuté avant validation /
+PO-00356,25354.82,Paiement exécuté avant validation /
+PO-00836,25229.21,Même utilisateur crée et approuve l
+PO-01349,25045.91,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01305,24585.57,Même utilisateur valide et exécute 
+PO-01614,24522.11,Même utilisateur crée et approuve l | Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-01619,24449.0,Facture bloquée (litige prix) — ret
+PO-01122,24282.6,Même utilisateur crée et approuve l
+PO-00638,24007.76,Fournisseur modifié après création 
+PO-01290,23963.84,Paiement exécuté avant validation /
+PO-00289,23889.07,Facture bloquée (litige prix) — ret
+PO-00913,23621.64,Facture bloquée (litige prix) — ret
+PO-01415,23090.45,Facture bloquée (litige prix) — ret
+PO-01909,22928.16,Même utilisateur crée et approuve l
+PO-01083,22913.96,Facture bloquée (litige prix) — ret
+PO-01729,22690.29,Facture bloquée (litige prix) — ret
+PO-00566,22639.98,Facture bloquée (litige prix) — ret
+PO-00662,22316.35,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00933,22114.7,Même utilisateur valide et exécute 
+PO-00323,22060.5,Facture bloquée (litige prix) — ret
+PO-01599,22011.09,Paiement exécuté avant validation / | Fournisseur modifié après création  | Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-01048,21897.17,Même utilisateur crée et approuve l
+PO-01893,21856.89,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01366,21728.05,Facture bloquée (litige prix) — ret
+PO-01192,21414.55,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01427,21170.46,Même utilisateur crée et approuve l
+PO-00032,21063.66,Fournisseur modifié après création 
+PO-01638,21015.7,Même utilisateur crée et approuve l
+PO-01948,20933.02,Facture bloquée (litige prix) — ret
+PO-01443,20521.57,Paiement exécuté avant validation /
+PO-01937,20499.16,Facture bloquée (litige prix) — ret
+PO-01236,20390.94,Paiement exécuté avant validation / | Même utilisateur crée et approuve l
+PO-00602,20333.47,Facture bloquée (litige prix) — ret
+PO-01876,20189.97,Paiement exécuté avant validation /
+PO-00320,20154.27,Même utilisateur crée et approuve l
+PO-01613,20145.74,Paiement exécuté avant validation /
+PO-01332,19997.16,Fournisseur modifié après création 
+PO-01897,19977.54,Même utilisateur crée et approuve l
+PO-00795,19923.85,Facture bloquée (litige prix) — ret
+PO-00798,19905.82,Facture bloquée (litige prix) — ret
+PO-01444,19727.12,Facture bloquée (litige prix) — ret
+PO-01715,19692.33,Facture bloquée (litige prix) — ret
+PO-01832,19665.88,Facture bloquée (litige prix) — ret
+PO-00907,19275.28,Facture bloquée (litige prix) — ret
+PO-00102,19255.75,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00314,19201.18,Même utilisateur crée et approuve l
+PO-01514,19148.26,Paiement exécuté avant validation /
+PO-00536,18962.75,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00939,18648.49,Même utilisateur crée et approuve l
+PO-00952,18622.69,Paiement exécuté avant validation / | Fournisseur modifié après création 
+PO-00464,18614.12,Même utilisateur crée et approuve l
+PO-00603,18613.12,Facture bloquée (litige prix) — ret
+PO-00970,18591.7,Même utilisateur valide et exécute 
+PO-00990,18296.83,Facture bloquée (litige prix) — ret
+PO-00286,18287.33,Fournisseur modifié après création 
+PO-00765,18245.2,Facture bloquée (litige prix) — ret
+PO-00866,18081.36,Même utilisateur crée et approuve l
+PO-00478,18041.72,Même utilisateur crée et approuve l
+PO-01843,17993.21,Facture bloquée (litige prix) — ret
+PO-01503,17837.37,Même utilisateur crée et approuve l
+PO-00744,17654.26,Même utilisateur crée et approuve l
+PO-01993,17572.39,Même utilisateur valide et exécute 
+PO-01086,17468.04,Paiement exécuté avant validation /
+PO-00908,17413.48,Même utilisateur crée et approuve l
+PO-00227,17112.54,Facture bloquée (litige prix) — ret
+PO-00802,17096.41,Même utilisateur crée et approuve l
+PO-00833,17028.77,Facture bloquée (litige prix) — ret
+PO-00433,16991.55,Facture bloquée (litige prix) — ret
+PO-01693,16823.29,Même utilisateur crée et approuve l
+PO-00003,16807.95,Même utilisateur valide et exécute 
+PO-01707,16744.85,Facture bloquée (litige prix) — ret
+PO-00492,16704.55,Fournisseur modifié après création 
+PO-00683,16637.94,Même utilisateur crée et approuve l
+PO-00621,16586.44,Paiement exécuté avant validation /
+PO-00114,16568.82,Fournisseur modifié après création 
+PO-01996,16349.8,Même utilisateur valide et exécute 
+PO-00240,16349.43,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-01759,16320.8,Même utilisateur valide et exécute 
+PO-00529,16165.5,Même utilisateur crée et approuve l
+PO-01139,16075.07,Fournisseur modifié après création 
+PO-00797,15988.0,Fournisseur modifié après création  | Même utilisateur valide et exécute 
+PO-01182,15818.83,Même utilisateur crée et approuve l
+PO-00784,15767.82,Facture bloquée (litige prix) — ret
+PO-01562,15728.1,Facture bloquée (litige prix) — ret
+PO-01860,15698.81,Même utilisateur valide et exécute 
+PO-00745,15660.65,Paiement exécuté avant validation / | Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-00050,15610.31,Facture bloquée (litige prix) — ret
+PO-01278,15602.56,Facture bloquée (litige prix) — ret
+PO-00416,15549.87,Même utilisateur crée et approuve l
+PO-01491,15464.77,Facture bloquée (litige prix) — ret
+PO-01259,15318.95,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01480,15274.13,Même utilisateur valide et exécute 
+PO-01677,15220.26,Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-00544,15211.62,Fournisseur modifié après création 
+PO-00028,15169.47,Même utilisateur crée et approuve l
+PO-01029,15148.64,Facture bloquée (litige prix) — ret
+PO-00547,14984.64,Paiement exécuté avant validation /
+PO-00142,14919.49,Même utilisateur crée et approuve l
+PO-00015,14838.21,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00177,14739.56,Même utilisateur crée et approuve l
+PO-00579,14647.3,Même utilisateur crée et approuve l
+PO-00842,14562.17,Facture bloquée (litige prix) — ret
+PO-00364,14515.84,Même utilisateur crée et approuve l
+PO-00539,14471.29,Même utilisateur crée et approuve l
+PO-01808,14433.13,Paiement exécuté avant validation /
+PO-00694,14418.96,Facture bloquée (litige prix) — ret
+PO-01176,14211.73,Même utilisateur crée et approuve l
+PO-01184,14184.34,Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-01601,14105.03,Même utilisateur crée et approuve l
+PO-00275,14093.0,Facture bloquée (litige prix) — ret
+PO-01732,14020.39,Même utilisateur crée et approuve l
+PO-00376,14003.66,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00315,13978.17,Paiement exécuté avant validation /
+PO-00635,13899.95,Paiement exécuté avant validation /
+PO-01309,13772.55,Facture bloquée (litige prix) — ret
+PO-01275,13765.85,Facture bloquée (litige prix) — ret
+PO-01804,13749.71,Même utilisateur crée et approuve l
+PO-00916,13736.2,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01972,13613.66,Paiement exécuté avant validation /
+PO-00903,13584.33,Même utilisateur crée et approuve l
+PO-01805,13548.72,Facture bloquée (litige prix) — ret
+PO-00541,13433.9,Même utilisateur crée et approuve l
+PO-01852,13385.51,Même utilisateur crée et approuve l
+PO-00087,13329.23,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00238,13248.84,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01012,13204.55,Paiement exécuté avant validation /
+PO-00562,13187.08,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00463,13180.31,Même utilisateur crée et approuve l
+PO-01181,13142.37,Même utilisateur valide et exécute 
+PO-00709,13127.42,Paiement exécuté avant validation / | Fournisseur modifié après création  | Même utilisateur valide et exécute 
+PO-00261,13076.33,Facture bloquée (litige prix) — ret
+PO-00892,13033.57,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01664,13031.59,Facture bloquée (litige prix) — ret
+PO-01758,13029.9,Même utilisateur crée et approuve l
+PO-01126,12950.47,Paiement exécuté avant validation /
+PO-01820,12933.14,Facture bloquée (litige prix) — ret
+PO-01675,12764.2,Même utilisateur valide et exécute 
+PO-00186,12753.32,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01260,12689.91,Même utilisateur valide et exécute 
+PO-01299,12620.57,Facture bloquée (litige prix) — ret
+PO-01209,12610.21,Fournisseur modifié après création 
+PO-01769,12591.96,Même utilisateur crée et approuve l
+PO-01557,12523.41,Même utilisateur crée et approuve l
+PO-01102,12464.04,Même utilisateur crée et approuve l
+PO-00302,12265.47,Même utilisateur crée et approuve l
+PO-00259,12211.03,Paiement exécuté avant validation /
+PO-01706,12191.36,Facture bloquée (litige prix) — ret
+PO-01547,12035.45,Facture bloquée (litige prix) — ret
+PO-01504,12013.14,Facture bloquée (litige prix) — ret
+PO-01085,11834.01,Fournisseur modifié après création 
+PO-00007,11761.16,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-00455,11751.17,Facture bloquée (litige prix) — ret
+PO-01994,11730.5,Paiement exécuté avant validation / | Même utilisateur crée et approuve l
+PO-01681,11559.1,Même utilisateur crée et approuve l
+PO-00962,11517.54,Facture bloquée (litige prix) — ret
+PO-00424,11454.24,Même utilisateur valide et exécute 
+PO-00766,11389.87,Facture bloquée (litige prix) — ret
+PO-00104,11322.65,Facture bloquée (litige prix) — ret
+PO-01395,11321.12,Même utilisateur crée et approuve l
+PO-00023,11285.48,Paiement exécuté avant validation / | Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-01241,11208.46,Facture bloquée (litige prix) — ret
+PO-00109,10951.14,Paiement exécuté avant validation /
+PO-01023,10947.5,Même utilisateur valide et exécute 
+PO-01595,10941.8,Paiement exécuté avant validation /
+PO-01942,10909.13,Facture bloquée (litige prix) — ret
+PO-00358,10864.55,Facture bloquée (litige prix) — ret
+PO-01959,10837.03,Fournisseur modifié après création 
+PO-01640,10719.47,Même utilisateur crée et approuve l
+PO-01730,10566.35,Facture bloquée (litige prix) — ret
+PO-00183,10550.59,Facture bloquée (litige prix) — ret
+PO-00954,10532.27,Facture bloquée (litige prix) — ret
+PO-01990,10452.36,Paiement exécuté avant validation /
+PO-00781,10397.57,Facture bloquée (litige prix) — ret
+PO-01201,10297.99,Paiement exécuté avant validation / | Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01656,10177.07,Facture bloquée (litige prix) — ret
+PO-01248,10174.4,Paiement exécuté avant validation /
+PO-01831,10022.95,Même utilisateur crée et approuve l
+PO-01274,9930.6,Même utilisateur crée et approuve l
+PO-01632,9813.03,Fournisseur modifié après création 
+PO-00280,9754.0,Paiement exécuté avant validation / | Fournisseur modifié après création  | Même utilisateur valide et exécute 
+PO-01416,9716.04,Fournisseur modifié après création 
+PO-00190,9687.14,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01426,9657.92,Facture bloquée (litige prix) — ret
+PO-00714,9619.69,Facture bloquée (litige prix) — ret
+PO-01084,9591.99,Même utilisateur crée et approuve l
+PO-00720,9561.72,Fournisseur modifié après création 
+PO-00279,9363.26,Même utilisateur crée et approuve l
+PO-00310,9332.8,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-00830,9301.98,Même utilisateur crée et approuve l
+PO-00663,9299.55,Même utilisateur crée et approuve l
+PO-01963,9291.54,Même utilisateur crée et approuve l
+PO-00983,9290.29,Même utilisateur crée et approuve l
+PO-01155,9178.86,Même utilisateur crée et approuve l
+PO-00044,9119.24,Fournisseur modifié après création 
+PO-00139,9114.39,Même utilisateur valide et exécute 
+PO-00858,9098.95,Même utilisateur crée et approuve l
+PO-00412,9080.45,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00441,9076.56,Facture bloquée (litige prix) — ret
+PO-01591,9069.17,Facture bloquée (litige prix) — ret
+PO-01153,8981.4,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-00436,8956.85,Facture bloquée (litige prix) — ret
+PO-01667,8941.69,Même utilisateur crée et approuve l
+PO-01049,8905.79,Même utilisateur crée et approuve l
+PO-01746,8899.05,Fournisseur modifié après création 
+PO-00419,8770.88,Facture bloquée (litige prix) — ret
+PO-01439,8683.6,Même utilisateur crée et approuve l
+PO-00199,8606.16,Même utilisateur crée et approuve l
+PO-01328,8546.92,Facture bloquée (litige prix) — ret
+PO-00837,8539.84,Facture bloquée (litige prix) — ret
+PO-00845,8527.57,Paiement exécuté avant validation /
+PO-01323,8467.58,Fournisseur modifié après création 
+PO-00415,8452.12,Facture bloquée (litige prix) — ret
+PO-00665,8429.27,Même utilisateur crée et approuve l
+PO-00817,8368.02,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00306,8350.23,Facture bloquée (litige prix) — ret
+PO-01525,8349.74,Facture bloquée (litige prix) — ret
+PO-01807,8200.76,Fournisseur modifié après création 
+PO-01285,8150.27,Fournisseur modifié après création 
+PO-01704,8147.05,Paiement exécuté avant validation /
+PO-00063,8126.32,Facture bloquée (litige prix) — ret
+PO-01519,8112.16,Même utilisateur crée et approuve l
+PO-01091,8109.51,Facture bloquée (litige prix) — ret
+PO-00688,8087.24,Facture bloquée (litige prix) — ret
+PO-01651,8065.61,Même utilisateur crée et approuve l
+PO-01008,8039.58,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-01238,7958.01,Même utilisateur crée et approuve l
+PO-01756,7957.25,Paiement exécuté avant validation /
+PO-01244,7911.25,Même utilisateur crée et approuve l
+PO-01239,7856.31,Même utilisateur valide et exécute 
+PO-01342,7769.87,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01171,7721.4,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-01955,7697.63,Même utilisateur crée et approuve l
+PO-00957,7689.57,Facture bloquée (litige prix) — ret
+PO-00782,7672.38,Même utilisateur crée et approuve l
+PO-01922,7663.98,Facture bloquée (litige prix) — ret
+PO-01550,7659.14,Facture bloquée (litige prix) — ret
+PO-01541,7629.15,Facture bloquée (litige prix) — ret
+PO-00597,7625.29,Facture bloquée (litige prix) — ret
+PO-01702,7559.94,Même utilisateur crée et approuve l
+PO-00849,7528.69,Fournisseur modifié après création 
+PO-01539,7487.61,Même utilisateur crée et approuve l
+PO-00608,7448.81,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00204,7438.93,Même utilisateur valide et exécute 
+PO-01775,7356.71,Paiement exécuté avant validation / | Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01663,7302.26,Fournisseur modifié après création 
+PO-01251,7273.86,Facture bloquée (litige prix) — ret
+PO-00397,7231.66,Facture bloquée (litige prix) — ret
+PO-00717,7094.06,Même utilisateur crée et approuve l
+PO-00303,7089.98,Même utilisateur crée et approuve l
+PO-01533,7078.4,Facture bloquée (litige prix) — ret
+PO-00385,6984.4,Même utilisateur crée et approuve l
+PO-00049,6980.44,Facture bloquée (litige prix) — ret
+PO-00775,6967.75,Même utilisateur crée et approuve l
+PO-00593,6944.16,Même utilisateur crée et approuve l
+PO-01828,6912.74,Paiement exécuté avant validation /
+PO-01258,6809.58,Même utilisateur valide et exécute 
+PO-00469,6795.37,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-00528,6771.91,Facture bloquée (litige prix) — ret
+PO-01859,6765.34,Même utilisateur valide et exécute 
+PO-00325,6741.84,Même utilisateur valide et exécute 
+PO-01316,6740.03,Même utilisateur crée et approuve l
+PO-01718,6723.65,Facture bloquée (litige prix) — ret
+PO-01633,6721.55,Même utilisateur crée et approuve l
+PO-01470,6587.57,Facture bloquée (litige prix) — ret
+PO-00921,6507.59,Même utilisateur crée et approuve l
+PO-00552,6482.66,Facture bloquée (litige prix) — ret
+PO-00699,6470.45,Même utilisateur crée et approuve l | Même utilisateur valide et exécute 
+PO-01752,6327.47,Fournisseur modifié après création 
+PO-00644,6312.0,Même utilisateur crée et approuve l
+PO-01071,6296.51,Même utilisateur crée et approuve l
+PO-01578,6272.08,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00169,6259.29,Même utilisateur crée et approuve l
+PO-00872,6253.98,Même utilisateur valide et exécute 
+PO-01861,6197.06,Facture bloquée (litige prix) — ret
+PO-01502,6190.48,Même utilisateur crée et approuve l
+PO-01999,6186.65,Paiement exécuté avant validation / | Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01895,6168.41,Facture bloquée (litige prix) — ret
+PO-01879,6113.3,Facture bloquée (litige prix) — ret
+PO-01800,6055.07,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-00522,6025.9,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01733,6018.38,Même utilisateur crée et approuve l
+PO-01738,6014.76,Facture bloquée (litige prix) — ret
+PO-01658,6011.83,Facture bloquée (litige prix) — ret
+PO-01645,6011.31,Fournisseur modifié après création 
+PO-00062,5940.32,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00620,5920.59,Même utilisateur valide et exécute 
+PO-00057,5918.72,Même utilisateur valide et exécute 
+PO-00149,5910.03,Facture bloquée (litige prix) — ret
+PO-00667,5890.71,Paiement exécuté avant validation /
+PO-00465,5853.92,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-00821,5822.73,Même utilisateur crée et approuve l
+PO-00107,5815.91,Même utilisateur crée et approuve l
+PO-00516,5795.64,Fournisseur modifié après création 
+PO-01372,5739.52,Fournisseur modifié après création  | Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00214,5656.78,Facture bloquée (litige prix) — ret
+PO-00389,5644.8,Même utilisateur crée et approuve l
+PO-01326,5643.16,Facture bloquée (litige prix) — ret
+PO-01053,5612.89,Paiement exécuté avant validation /
+PO-00978,5611.29,Paiement exécuté avant validation / | Fournisseur modifié après création  | Même utilisateur valide et exécute 
+PO-01877,5588.83,Facture bloquée (litige prix) — ret
+PO-01147,5568.48,Même utilisateur crée et approuve l
+PO-00622,5565.25,Même utilisateur crée et approuve l
+PO-01864,5520.4,Même utilisateur crée et approuve l
+PO-00598,5509.34,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-01148,5507.65,Fournisseur modifié après création 
+PO-00005,5506.25,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01671,5451.21,Paiement exécuté avant validation /
+PO-01680,5438.8,Facture bloquée (litige prix) — ret
+PO-00484,5409.98,Même utilisateur valide et exécute 
+PO-00257,5376.04,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00125,5330.37,Même utilisateur crée et approuve l
+PO-00731,5285.03,Même utilisateur crée et approuve l
+PO-00659,5284.85,Facture bloquée (litige prix) — ret
+PO-01705,5277.73,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-00991,5267.39,Facture bloquée (litige prix) — ret
+PO-00105,5243.1,Même utilisateur crée et approuve l
+PO-00515,5235.43,Fournisseur modifié après création 
+PO-01384,5167.95,Paiement exécuté avant validation / | Fournisseur modifié après création  | Même utilisateur valide et exécute 
+PO-00345,5154.57,Facture bloquée (litige prix) — ret
+PO-00127,5103.97,Fournisseur modifié après création 
+PO-00182,5095.02,Facture bloquée (litige prix) — ret
+PO-01867,5065.8,Fournisseur modifié après création 
+PO-01712,5051.28,Même utilisateur valide et exécute 
+PO-01054,5026.75,Facture bloquée (litige prix) — ret
+PO-00984,5016.0,Même utilisateur crée et approuve l
+PO-01915,4998.09,Fournisseur modifié après création 
+PO-01559,4997.82,Paiement exécuté avant validation /
+PO-00116,4994.58,Fournisseur modifié après création 
+PO-00119,4940.44,Facture bloquée (litige prix) — ret
+PO-01156,4937.56,Même utilisateur crée et approuve l
+PO-00462,4914.07,Même utilisateur crée et approuve l
+PO-00110,4887.98,Même utilisateur valide et exécute 
+PO-00467,4873.58,Même utilisateur crée et approuve l
+PO-01215,4840.95,Même utilisateur valide et exécute 
+PO-01809,4816.3,Facture bloquée (litige prix) — ret
+PO-00138,4791.97,Paiement exécuté avant validation /
+PO-01073,4756.29,Facture bloquée (litige prix) — ret
+PO-01173,4745.93,Facture bloquée (litige prix) — ret
+PO-00295,4700.65,Paiement exécuté avant validation / | Même utilisateur crée et approuve l
+PO-00832,4590.82,Facture bloquée (litige prix) — ret
+PO-01022,4576.06,Même utilisateur crée et approuve l
+PO-00768,4482.77,Même utilisateur crée et approuve l
+PO-00704,4462.31,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00823,4450.29,Même utilisateur crée et approuve l
+PO-01762,4446.73,Même utilisateur crée et approuve l
+PO-00791,4435.4,Même utilisateur crée et approuve l
+PO-00839,4391.69,Paiement exécuté avant validation / | Fournisseur modifié après création 
+PO-01795,4375.22,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01100,4358.26,Paiement exécuté avant validation /
+PO-00392,4334.93,Facture bloquée (litige prix) — ret
+PO-01230,4303.66,Facture bloquée (litige prix) — ret
+PO-00002,4113.01,Fournisseur modifié après création 
+PO-01726,4041.54,Facture bloquée (litige prix) — ret
+PO-00979,3999.21,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01757,3905.19,Même utilisateur valide et exécute 
+PO-00317,3860.57,Même utilisateur crée et approuve l
+PO-01925,3860.37,Même utilisateur crée et approuve l
+PO-01790,3854.68,Même utilisateur crée et approuve l
+PO-01450,3834.23,Paiement exécuté avant validation /
+PO-01797,3807.15,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-01750,3795.23,Facture bloquée (litige prix) — ret
+PO-01319,3794.05,Même utilisateur crée et approuve l
+PO-00901,3788.22,Facture bloquée (litige prix) — ret
+PO-00073,3753.31,Même utilisateur crée et approuve l
+PO-00065,3746.99,Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-00016,3742.33,Facture bloquée (litige prix) — ret
+PO-01193,3664.66,Même utilisateur valide et exécute 
+PO-01485,3626.35,Même utilisateur crée et approuve l
+PO-00571,3621.04,Même utilisateur crée et approuve l
+PO-00813,3596.53,Paiement exécuté avant validation /
+PO-00232,3549.34,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-01166,3533.03,Facture bloquée (litige prix) — ret
+PO-01388,3508.37,Facture bloquée (litige prix) — ret
+PO-01778,3503.6,Facture bloquée (litige prix) — ret
+PO-01777,3475.89,Facture bloquée (litige prix) — ret
+PO-01457,3459.02,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-00070,3440.99,Même utilisateur crée et approuve l
+PO-01927,3407.68,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00840,3398.75,Même utilisateur crée et approuve l
+PO-01918,3380.58,Même utilisateur crée et approuve l
+PO-01621,3371.02,Même utilisateur valide et exécute 
+PO-00711,3336.77,Facture bloquée (litige prix) — ret
+PO-00004,3325.16,Même utilisateur valide et exécute 
+PO-01786,3311.54,Facture bloquée (litige prix) — ret
+PO-01334,3288.48,Même utilisateur crée et approuve l
+PO-01440,3221.7,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01454,3195.62,Même utilisateur crée et approuve l
+PO-00799,3181.88,Même utilisateur crée et approuve l
+PO-00716,3165.05,Facture bloquée (litige prix) — ret
+PO-01827,3160.56,Même utilisateur valide et exécute 
+PO-01558,3144.07,Même utilisateur crée et approuve l
+PO-00616,3141.73,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01770,3130.47,Facture bloquée (litige prix) — ret
+PO-00929,3118.66,Fournisseur modifié après création 
+PO-01731,3083.18,Facture bloquée (litige prix) — ret
+PO-00674,3079.38,Fournisseur modifié après création 
+PO-00844,2979.48,Même utilisateur crée et approuve l
+PO-00561,2973.9,Même utilisateur crée et approuve l
+PO-00401,2964.0,Même utilisateur crée et approuve l
+PO-01983,2930.86,Paiement exécuté avant validation /
+PO-00155,2909.64,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-00825,2884.25,Facture bloquée (litige prix) — ret
+PO-01074,2873.88,Fournisseur modifié après création 
+PO-00865,2870.67,Même utilisateur crée et approuve l
+PO-01099,2864.19,Même utilisateur crée et approuve l
+PO-01845,2838.77,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-01609,2838.11,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-00244,2837.02,Facture bloquée (litige prix) — ret
+PO-01849,2820.19,Facture bloquée (litige prix) — ret
+PO-01611,2797.79,Fournisseur modifié après création 
+PO-00267,2791.38,Facture bloquée (litige prix) — ret
+PO-00526,2760.3,Fournisseur modifié après création 
+PO-00156,2749.29,Facture bloquée (litige prix) — ret
+PO-00001,2721.66,Facture bloquée (litige prix) — ret
+PO-00686,2661.3,Paiement exécuté avant validation / | Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01214,2629.31,Fournisseur modifié après création 
+PO-01052,2581.13,Facture bloquée (litige prix) — ret
+PO-01387,2574.84,Paiement exécuté avant validation /
+PO-00806,2564.09,Même utilisateur crée et approuve l
+PO-01208,2532.14,Facture bloquée (litige prix) — ret
+PO-01266,2519.2,Paiement exécuté avant validation /
+PO-01190,2478.53,Facture bloquée (litige prix) — ret
+PO-01574,2466.81,Facture bloquée (litige prix) — ret
+PO-00171,2443.39,Fournisseur modifié après création 
+PO-00378,2430.8,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-00041,2425.5,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00732,2410.69,Paiement exécuté avant validation /
+PO-00489,2409.9,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00369,2306.99,Même utilisateur crée et approuve l
+PO-00460,2294.67,Facture bloquée (litige prix) — ret
+PO-01125,2280.06,Paiement exécuté avant validation /
+PO-01394,2274.58,Facture bloquée (litige prix) — ret
+PO-01583,2270.4,Fournisseur modifié après création 
+PO-01549,2264.79,Facture bloquée (litige prix) — ret
+PO-01262,2206.09,Facture bloquée (litige prix) — ret
+PO-01545,2146.61,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-01393,2110.57,Facture bloquée (litige prix) — ret
+PO-01360,2110.08,Fournisseur modifié après création  | Facture bloquée (litige prix) — ret
+PO-00800,2104.54,Facture bloquée (litige prix) — ret
+PO-00236,2086.08,Fournisseur modifié après création 
+PO-00687,2061.44,Facture bloquée (litige prix) — ret
+PO-01551,2049.51,Paiement exécuté avant validation / | Facture bloquée (litige prix) — ret
+PO-00874,2048.78,Facture bloquée (litige prix) — ret
+PO-00468,2047.72,Même utilisateur crée et approuve l | Même utilisateur valide et exécute 
+PO-01570,2012.49,Fournisseur modifié après création 
+PO-01873,1994.1,Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-00298,1964.59,Paiement exécuté avant validation /
+PO-01108,1954.47,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00968,1950.64,Facture bloquée (litige prix) — ret
+PO-01647,1942.51,Facture bloquée (litige prix) — ret
+PO-00407,1921.41,Fournisseur modifié après création  | Même utilisateur crée et approuve l
+PO-01597,1902.18,Même utilisateur valide et exécute 
+PO-01637,1900.11,Facture bloquée (litige prix) — ret
+PO-01237,1744.02,Facture bloquée (litige prix) — ret
+PO-01678,1722.97,Fournisseur modifié après création 
+PO-01035,1639.39,Fournisseur modifié après création 
+PO-01341,1636.79,Facture bloquée (litige prix) — ret
+PO-01878,1591.98,Même utilisateur crée et approuve l
+PO-00425,1568.18,Fournisseur modifié après création 
+PO-01210,1548.77,Facture bloquée (litige prix) — ret
+PO-01794,1476.08,Facture bloquée (litige prix) — ret
+PO-01856,1453.45,Même utilisateur valide et exécute  | Facture bloquée (litige prix) — ret
+PO-00891,1447.53,Fournisseur modifié après création 
+PO-00215,1431.83,Même utilisateur valide et exécute 
+PO-00785,1430.19,Facture bloquée (litige prix) — ret
+PO-00859,1391.95,Fournisseur modifié après création 
+PO-01720,1390.08,Même utilisateur crée et approuve l
+PO-00343,1379.84,Facture bloquée (litige prix) — ret
+PO-00875,1375.63,Fournisseur modifié après création 
+PO-01325,1355.92,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00789,1335.84,Facture bloquée (litige prix) — ret
+PO-00494,1316.93,Fournisseur modifié après création 
+PO-01009,1272.5,Paiement exécuté avant validation /
+PO-00737,1251.82,Fournisseur modifié après création 
+PO-01644,1251.53,Facture bloquée (litige prix) — ret
+PO-01566,1229.28,Même utilisateur crée et approuve l
+PO-01810,1196.42,Facture bloquée (litige prix) — ret
+PO-01628,1191.66,Paiement exécuté avant validation / | Même utilisateur crée et approuve l
+PO-00239,1173.91,Facture bloquée (litige prix) — ret
+PO-01484,1067.43,Paiement exécuté avant validation /
+PO-00301,1064.81,Paiement exécuté avant validation /
+PO-01371,1047.53,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
+PO-00708,1047.28,Paiement exécuté avant validation /
+PO-01474,1000.28,Paiement exécuté avant validation /
+PO-00429,971.03,Facture bloquée (litige prix) — ret
+PO-00917,919.39,Même utilisateur crée et approuve l | Facture bloquée (litige prix) — ret
+PO-00632,907.29,Facture bloquée (litige prix) — ret
+PO-00545,837.95,Même utilisateur crée et approuve l
+PO-00427,836.24,Même utilisateur crée et approuve l
+PO-01506,824.12,Facture bloquée (litige prix) — ret
+PO-00474,681.79,Facture bloquée (litige prix) — ret
+PO-00988,676.29,Même utilisateur crée et approuve l
+PO-01979,651.72,Même utilisateur crée et approuve l
+PO-00432,380.81,Paiement exécuté avant validation / | Même utilisateur valide et exécute 
