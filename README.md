@@ -1,10 +1,23 @@
+<p align="center"><img src="docs/banner.png" alt="Process mining d'un cycle achats" width="100%"></p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0B1A4A?style=flat-square&logo=python&logoColor=white">
+  <img alt="PM4Py" src="https://img.shields.io/badge/PM4Py-0B1A4A?style=flat-square">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-0B1A4A?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0B1A4A?style=flat-square&logo=jupyter&logoColor=white">
+  <img alt="Graphviz" src="https://img.shields.io/badge/Graphviz-0B1A4A?style=flat-square">
+  <img alt="Audit SI" src="https://img.shields.io/badge/Audit%20SI-0B1A4A?style=flat-square">
+</p>
+
 # Process mining d'un cycle achats (Purchase-to-Pay)
 
 **Franck Nankeng** · [LinkedIn](https://www.linkedin.com/in/franck-nankeng-51b43b297/) · *[English summary below](#english-summary)*
 
 Reconstituer le processus achats réellement exécuté à partir des traces du SI, le confronter au processus attendu et en tirer une note d'audit chiffrée. Le projet reproduit une revue de type audit SI sur un cycle Purchase-to-Pay, avec Python et PM4Py. Cas d'étude sur données simulées.
 
-![Synthèse de l'audit](out/04_synthese_audit.png)
+<p align="center"><img src="docs/apercu.gif" alt="Aperçu animé du projet" width="88%"></p>
+<p align="center"><sub>Du processus reconstitué aux montants exposés</sub></p>
+
 
 ## En bref
 
@@ -17,6 +30,8 @@ Reconstituer le processus achats réellement exécuté à partir des traces du S
 | Résultat | 618 commandes déviantes (30,9 %), 11,73 M€ exposés (33,2 % des engagements) |
 | Goulot | Une facture bloquée allonge le cycle de 22,8 à 43,6 jours en médiane, soit +20,8 jours |
 | Livrables | Note d'audit en 4 constats, échantillon de 618 commandes priorisé par montant pour les tests de détail |
+
+![Synthèse de l'audit](out/04_synthese_audit.png)
 
 ## Processus attendu
 
@@ -84,3 +99,13 @@ Process mining applied to a simulated Purchase-to-Pay audit, in Python with PM4P
 - **Conformance:** alignment-based checking against the target process (average fitness 0.979, 79.2% fully compliant), then five independent business-rule tests: three-way match bypass, two segregation-of-duties tests, supplier changes after approval, invoice disputes.
 - **Result:** 618 deviating orders (30.9%) and €11.73M exposed (33.2% of commitments). Invoice disputes stretch the median cycle from 22.8 to 43.6 days (+20.8 days).
 - **Deliverables:** a four-finding audit memo with risks and recommendations, and a sample of 618 orders ranked by amount for detailed testing.
+
+---
+
+### Autres projets
+
+| [**Groupe Orvane**](https://github.com/Nganou1/orvane-powerbi) | [**Horizon_Contrat**](https://github.com/Nganou1/horizon-contrat-excel) | [**Projets IA & ML**](https://github.com/Nganou1/projets-ia) |
+|---|---|---|
+| Power BI · 143 mesures DAX · RLS | Excel expert · Power Pivot · VBA | Python · machine learning · deep learning |
+
+[Tous mes dépôts](https://github.com/Nganou1?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/franck-nankeng-51b43b297/)
